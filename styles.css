@@ -1,0 +1,28 @@
+/* add your CSS here */
+#container {
+  border: solid;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 5px 5px 5px;
+  width: 300px;
+	}
+
+.animal-info {
+      list-style-type: none;          
+    }
+
+#interesting-fact {
+      font-style: italic;         
+    }
+
+.label {
+  	font-weight: bold;
+	}
+
+#card {
+  	border: solid;
+    padding: 10px 10px 10px 10px;
+}
+
+#facts {
+  	padding: 10px 10px 10px 10px; 
+}
